@@ -1,5 +1,8 @@
 # TecniHogar - Lab 3 Herencia
 
+Katherine Estrada - 261266
+
+
 Aplicación de consola en Java para cotizar y registrar órdenes de servicio, organizar cuadrillas y jornadas, registrar visitas y consultar reportes. Los datos se conservan solo mientras el programa está abierto.
 
 Las pruebas revisan los datos iniciales, cálculos de cobro, cotización sin ingresos, reprogramación, cargo por segunda visita, certificación y rechazo de operaciones inválidas.
