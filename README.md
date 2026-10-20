@@ -2,32 +2,6 @@
 
 Aplicación de consola en Java para cotizar y registrar órdenes de servicio, organizar cuadrillas y jornadas, registrar visitas y consultar reportes. Los datos se conservan solo mientras el programa está abierto.
 
-## Requisitos
-
-- Java JDK 8 o posterior.
-
-## Compilar
-
-Desde esta carpeta, ejecute:
-
-```bash
-javac -encoding UTF-8 *.java
-```
-
-## Ejecutar
-
-```bash
-java Main
-```
-
-## Ejecutar las pruebas rápidas
-
-Después de compilar, ejecute:
-
-```bash
-java Pruebas
-```
-
 Las pruebas revisan los datos iniciales, cálculos de cobro, cotización sin ingresos, reprogramación, cargo por segunda visita, certificación y rechazo de operaciones inválidas.
 Los casos y resultados obtenidos también están resumidos en `PRUEBAS.md`.
 
